@@ -15,7 +15,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "David Samuel",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
